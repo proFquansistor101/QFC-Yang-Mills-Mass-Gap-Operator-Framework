@@ -1,0 +1,1 @@
+"""Lattice simulation scaffolding (Tier 2)."""\n

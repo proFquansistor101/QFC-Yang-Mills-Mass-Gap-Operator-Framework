@@ -1,0 +1,16 @@
+{
+  "volume": [
+    8,
+    8,
+    8,
+    8
+  ],
+  "beta": 6.0,
+  "lambda_grid": [
+    0.0,
+    0.1,
+    0.2,
+    0.3
+  ],
+  "notes": "Placeholder config for Wilson lattice experiments."
+}

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX (if you drop drafts here)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Data outputs (keep examples committed; ignore heavy runs)
+data/runs/
