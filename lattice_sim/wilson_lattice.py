@@ -1,9 +1,4 @@
-"""Wilson lattice scaffolding.
 
-This module provides a minimal placeholder for SU(2)/SU(3)-like Wilson action loops.
-It does NOT implement full group integration; it only defines data structures and
-deterministic trace generation for later replacement.
-"""
 
 from __future__ import annotations
 from dataclasses import dataclass
