@@ -1,4 +1,4 @@
-"""Multi-resolution confinement penalty placeholder for SMRK-style constraints."""
+
 
 from __future__ import annotations
 import numpy as np
