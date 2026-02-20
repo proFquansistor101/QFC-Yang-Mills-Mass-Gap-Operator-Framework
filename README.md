@@ -28,6 +28,9 @@ pytest -q
 All experiments should accept an explicit `seed` and produce a **trace** object that can be replayed.
 See `qfc_stack/qvm_replay.py` and `tests/test_replay.py`.
 
-## License
+).
 
-MIT (see `LICENSE`).
+## License
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
