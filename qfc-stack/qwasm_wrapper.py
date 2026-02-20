@@ -1,4 +1,4 @@
-"""QWASM execution layer (placeholder)."""
+
 
 from __future__ import annotations
 from dataclasses import dataclass
