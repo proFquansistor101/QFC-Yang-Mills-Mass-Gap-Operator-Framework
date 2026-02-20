@@ -1,8 +1,4 @@
-"""Symplectic prime-shift operator sketches.
 
-Placeholder scaffolding for "twistor shifts" / prime-shift inspired operators.
-The only promise: clean interfaces + deterministic behavior when seeded.
-"""
 
 from __future__ import annotations
 import numpy as np
